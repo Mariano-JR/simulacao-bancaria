@@ -1,4 +1,4 @@
-# Sistema Bancario
+# Sistema Bancário
 
 ## Programa de sistema bancario criado com a linguagem Go durante o curso de Go: Orientação a Objetos pela Alura.
 ### Nele é possivel criar Contas Correntes e Poupança e atraves de ambas, fazer transações bancárias como Saque, Depósito, Transferência e Pagamento de Boleto.
